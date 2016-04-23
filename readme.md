@@ -1,4 +1,4 @@
- [![Build Status](https://travis-ci.org/<your-username>/place-my-order.png?branch=master)](https://travis-ci.org/danielclopez0/doneJSplaceMyOrder)
+[![Build Status](https://travis-ci.org/danielclopez0/place-my-order.png?branch=master)](https://travis-ci.org/danielclopez0/doneJSplaceMyOrder)
 
 
 # place-my-order
